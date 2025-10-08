@@ -1,0 +1,11 @@
+Title	URL	Assignees	Status	Priority	Estimate	Size	Labels	Sprint
+Need the ability to list all products in the catalog.	https://github.com/nikeshskillup/Agile_final_product/issues/7		Icebox		3			
+Need the ability to query a subset of products in the catalog.	https://github.com/nikeshskillup/Agile_final_product/issues/8		Icebox		5			
+Need the ability to Like a product in the catalog.	https://github.com/nikeshskillup/Agile_final_product/issues/5		Product Backlog		2		enhancement	
+Need the ability to Dislike a product in the catalog.	https://github.com/nikeshskillup/Agile_final_product/issues/6		Product Backlog		2		enhancement	
+Must be hosted in the cloud.	https://github.com/nikeshskillup/Agile_final_product/issues/9		Product Backlog		8		technical deb	
+Must have automation to deploy new changes to the cloud.	https://github.com/nikeshskillup/Agile_final_product/issues/10		Product Backlog		8		technical deb	
+Need the ability to delete a product from the catalog.	https://github.com/nikeshskillup/Agile_final_product/issues/4		Sprint Backlog		2		enhancement	Sprint 1
+Need the ability to update a product in the catalog.	https://github.com/nikeshskillup/Agile_final_product/issues/3	nikeshskillup	In progress		3		enhancement	Sprint 1
+Need the ability to create a product in the catalog.	https://github.com/nikeshskillup/Agile_final_product/issues/1	nikeshskillup	Done		3		enhancement	Sprint 1
+Need the ability to retrieve a product from the catalog.	https://github.com/nikeshskillup/Agile_final_product/issues/2	nikeshskillup	Done		2		enhancement	Sprint 1
