@@ -12,7 +12,7 @@ function parseCSV(str, delimiter = ',') {
 }
 
 // Load and render CSV/TSV Kanban data
-fetch('Final-Project-Backlog.csv')  // Change filename if needed
+fetch('/Final-Project-Backlog.csv')  // Change filename if needed
   .then(response => response.text())
   .then(text => {
     // Detect if tab-separated or comma-separated
